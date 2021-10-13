@@ -1,6 +1,9 @@
 # Course Guide
 Links to lectures, code from class, and challenges
 
+## Week One
+Building a strong foundation
+
 ### Schedule
 
 | Day                                                                                                              | Time        |  Topic                                                                 | Challenges                                                                                            | Code from Class | Video Lectures                                                                                                                                                                                                                                                                                      |
