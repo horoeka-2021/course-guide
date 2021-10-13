@@ -1,4 +1,4 @@
-# Course Guid
+# Course Guide
 Links to lectures, code from class, and challenges
 
 ### Schedule
