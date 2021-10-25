@@ -6,8 +6,9 @@ Databases, Knex.js, Joins and Relationships
 
 | Day       | Time              | Topics                                                                  | Challenges                                                                                              | Code from Class                                                                                           | Video Lectures                                                                                                                                                                                                                                                                                                                                                                                    |
 | --------- | ----------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | 
-| Monday    | Morning           | Intro Databases and Knex.js                                             | (knex-to-do)[https://github.com/horoeka-2021/knex-todo-cli]                                             | [Knex Tasks](https://github.com/horoeka-2021/code-from-class/tree/main/week3/mon-am)                      | [video lecture](https://youtu.be/emz1Z_N_vvI)         |
-|           | Afternoon         |||||
+| Monday    | Morning           | Intro to Databases,<br> Knex.js                                             | [Knex To-Do CLI](https://github.com/horoeka-2021/knex-todo-cli)                                             | [Databases and Knex.js](https://github.com/horoeka-2021/code-from-class/tree/main/week3/mon-am)                      | [Databases, Knex and CLI](https://youtu.be/emz1Z_N_vvI)         |
+|           | Afternoon         |Promises||[Promises](https://github.com/horoeka-2021/code-from-class/tree/main/week3/mon-pm)|[Promises](https://www.youtube.com/watch?v=TxzNdIidhIs&list=PL_AE4CqTqcwIzLS7JDbYprcQ6Kwd8pjM-&index=20)|
+|Tuesday    | Morning           | Database Joins  | [Knex Joins Stories](https://github.com/horoeka-2021/knex-joins-stories)  | | |
 
 
 ## Week 2
