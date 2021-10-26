@@ -2,14 +2,16 @@
 Links to lectures, code from class, and challenges
 
 ## Week 3
-Databases, Knex.js, Joins and Relationships
+Databases with Knex.js
 
 | Day       | Time              | Topics                                                                  | Challenges                                                                                              | Code from Class                                                                                           | Video Lectures                                                                                                                                                                                                                                                                                                                                                                                    |
 | --------- | ----------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | 
-| Monday    | Morning           | Intro to Databases,<br> Knex.js                                             | [Knex To-Do CLI](https://github.com/horoeka-2021/knex-todo-cli)                                             | [Databases and Knex.js](https://github.com/horoeka-2021/code-from-class/tree/main/week3/mon-am)                      | [Databases, Knex and CLI](https://youtu.be/emz1Z_N_vvI)         |
+| Monday    | Morning           | Intro to databases,<br> Knex.js                                             | [Knex To-Do CLI](https://github.com/horoeka-2021/knex-todo-cli)                                             | [Databases and Knex.js](https://github.com/horoeka-2021/code-from-class/tree/main/week3/mon-am)                      | [Databases, Knex and CLI](https://youtu.be/emz1Z_N_vvI)         |
 |           | Afternoon         |Promises||[Promises](https://github.com/horoeka-2021/code-from-class/tree/main/week3/mon-pm)|[Promises](https://www.youtube.com/watch?v=TxzNdIidhIs&list=PL_AE4CqTqcwIzLS7JDbYprcQ6Kwd8pjM-&index=20)|
-|Tuesday    | Morning           | Database Joins  | [Knex Joins Stories](https://github.com/horoeka-2021/knex-joins-stories)  |[Relationships, Joins and Keys](https://github.com/horoeka-2021/code-from-class/tree/main/week3/tues-am) |[Joins and Relationships](https://www.youtube.com/watch?v=-h67gbMV-0E&list=PL_AE4CqTqcwIzLS7JDbYprcQ6Kwd8pjM-&index=21) |
-||Afternoon |Testing Databases ||[Testing Databases](https://github.com/horoeka-2021/code-from-class/tree/main/week3/tues-pm)|[Testing Databases]()|
+|Tuesday    | Morning           | Database joins  | [Knex Joins Stories](https://github.com/horoeka-2021/knex-joins-stories),<br> [Knex Relationships Stories](https://github.com/horoeka-2021/knex-relationships-stories) (optional)  |[Relationships, Joins and Keys](https://github.com/horoeka-2021/code-from-class/tree/main/week3/tues-am) |[Joins and Relationships](https://www.youtube.com/watch?v=-h67gbMV-0E&list=PL_AE4CqTqcwIzLS7JDbYprcQ6Kwd8pjM-&index=21) |
+||Afternoon |Testing databases ||[Testing Databases](https://github.com/horoeka-2021/code-from-class/tree/main/week3/tues-pm)|[Testing Databases]()|
+|Wednesday |Morning |Adding to databases with forms | [Dreamfest](https://github.com/horoeka-2021/dreamfest?organization=horoeka-2021&organization=horoeka-2021) 😍 |||
+||Afternoon|||||
 
 
 ## Week 2
