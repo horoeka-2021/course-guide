@@ -1,6 +1,14 @@
 # Course Guide
 Links to lectures, code from class, and challenges
 
+## Week 4
+Client-side rendering with React
+
+| Day       | Time              | Topics                                                                  | Challenges                                                                                              | Code from Class                                                                                           | Video Lectures                                                                                                                                                                                                                                                                                                                                                                                    |
+| --------- | ----------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | 
+| Monday    | Morning Recap          | Intro to React,<br> Transpiling| [Paws for Effect](https://github.com/horoeka-2021/react-paws-for-effect?organization=horoeka-2021&organization=horoeka-2021),<br> [Charlotte's Web Log](https://github.com/horoeka-2021/charlottes-web-log?organization=horoeka-2021&organization=horoeka-2021)                                             | [ES Modules](https://github.com/horoeka-2021/video-lectures/tree/main/react/import-export),<br> [The Build](https://github.com/horoeka-2021/video-lectures/tree/main/react/building),<br> [Functional Components](https://github.com/horoeka-2021/video-lectures/tree/main/react/components-props),<br> [Rendering Logic](https://github.com/horoeka-2021/video-lectures/tree/main/react/rendering-logic)                | [Web Architecture](https://www.youtube.com/watch?v=jf4v1bpuph0&list=PL_AE4CqTqcwIzLS7JDbYprcQ6Kwd8pjM-&index=25&t=13s),<br> [The Virtual DOM](https://www.youtube.com/watch?v=TigsO8_qw1c&list=PL_AE4CqTqcwIzLS7JDbYprcQ6Kwd8pjM-&index=25),<br> [ES Modules](https://www.youtube.com/watch?v=DXOl6Z7-mNo&list=PL_AE4CqTqcwIzLS7JDbYprcQ6Kwd8pjM-&index=26),<br> [React Build with Webpack](https://www.youtube.com/watch?v=w2XzhnOHx9I&list=PL_AE4CqTqcwIzLS7JDbYprcQ6Kwd8pjM-&index=27),<br> [Functional Components](https://www.youtube.com/watch?v=Z1dV9ZwhrXo&list=PL_AE4CqTqcwIzLS7JDbYprcQ6Kwd8pjM-&index=28),<br> [Rendering Logic](https://www.youtube.com/watch?v=qRc1pjJ5fMw&list=PL_AE4CqTqcwIzLS7JDbYprcQ6Kwd8pjM-&index=29)         |
+
+
 ## Week 3
 Databases with Knex.js
 
@@ -9,8 +17,8 @@ Databases with Knex.js
 | Monday    | Morning           | Intro to databases,<br> Knex.js                                             | [Knex To-Do CLI](https://github.com/horoeka-2021/knex-todo-cli)                                             | [Databases and Knex.js](https://github.com/horoeka-2021/code-from-class/tree/main/week3/mon-am)                      | [Databases, Knex and CLI](https://youtu.be/emz1Z_N_vvI)         |
 |           | Afternoon         | Promises                                                                ||[Promises](https://github.com/horoeka-2021/code-from-class/tree/main/week3/mon-pm)|[Promises](https://www.youtube.com/watch?v=TxzNdIidhIs&list=PL_AE4CqTqcwIzLS7JDbYprcQ6Kwd8pjM-&index=20)|
 | Tuesday   | Morning           | Database joins  | [Knex Joins Stories](https://github.com/horoeka-2021/knex-joins-stories),<br> [Knex Relationships Stories](https://github.com/horoeka-2021/knex-relationships-stories) (optional)  |[Relationships, Joins and Keys](https://github.com/horoeka-2021/code-from-class/tree/main/week3/tues-am) |[Joins and Relationships](https://www.youtube.com/watch?v=-h67gbMV-0E&list=PL_AE4CqTqcwIzLS7JDbYprcQ6Kwd8pjM-&index=21) |||Afternoon |Testing databases  |                                                                         |[Testing Databases](https://github.com/horoeka-2021/code-from-class/tree/main/week3/tues-pm)|[Testing Databases]()|
-|Wednesday |Morning |Adding to databases with forms | [Dreamfest](https://github.com/horoeka-2021/dreamfest?organization=horoeka-2021&organization=horoeka-2021) 😍 | [Databases and revisiting POST routes with Handlebars](https://github.com/horoeka-2021/code-from-class/tree/main/week3/wed-am) | [video](https://www.youtube.com/watch?v=9gMto_P7naU) |
-||Afternoon|||||
+|Wednesday |Morning |Adding to databases with forms | [Dreamfest](https://github.com/horoeka-2021/dreamfest?organization=horoeka-2021&organization=horoeka-2021) 😍 | [Databases and revisiting POST routes with Handlebars](https://github.com/horoeka-2021/code-from-class/tree/main/week3/wed-am) | [Adding to Databases](https://www.youtube.com/watch?v=9gMto_P7naU) |
+|
 
 
 ## Week 2
