@@ -11,6 +11,7 @@ Client-side rendering with React
 |Tuesday|Morning|State,<br> Event handling|[Broken Kaleidoscope](https://github.com/horoeka-2021/broken-kaleidoscope),<br> [Memory](https://github.com/horoeka-2021/memory),<br> [Enspiraled](https://github.com/horoeka-2021/enspiraled)|[Stateful React components](https://github.com/horoeka-2021/code-from-class/tree/main/week4/tue-am)|[Stateful React components](https://www.youtube.com/watch?v=LRggoccknno&list=PL_AE4CqTqcwIzLS7JDbYprcQ6Kwd8pjM-&index=32)|
 ||Afternoon|UI testing with Testing Library|||[UI testing](https://www.youtube.com/watch?v=eoDq5XUWyK8&list=PL_AE4CqTqcwIzLS7JDbYprcQ6Kwd8pjM-&index=33)|
 |Wednesday |Morning |Server-side routing |[Worldwide Routing](https://github.com/horoeka-2021/worldwide-routing) |[Server-side routing](https://github.com/horoeka-2021/code-from-class/tree/main/week4/wed-am)||
+|Thursday|Afternoon|React Forms||[React Forms](https://github.com/horoeka-2021/code-from-class/tree/main/week4/thurs-pm)||
 
 
 ## Week 3
