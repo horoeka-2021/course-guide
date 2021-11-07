@@ -1,6 +1,13 @@
 # Course Guide
 Links to lectures, code from class, and challenges
 
+## Week 5
+APIs
+
+| Day       | Time              | Topics                                                                  | Challenges                                                                                              | Code from Class                                                                                           | Video Lectures                                                                                                                                                                                                                                                                                                                                                                                    |
+| --------- | ----------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | 
+| Monday    | Morning | REST web APIs |[Charlotte's Web Log API](https://github.com/horoeka-2021/charlottes-web-log-api?organization=horoeka-2021&organization=horoeka-2021),<br> [Web API Stories](https://github.com/horoeka-2021/web-api-stories)|[REST web APIs](https://github.com/horoeka-2021/code-from-class/tree/main/week5/mon-am)||
+
 ## Week 4
 Client-side rendering with React
 
@@ -10,7 +17,7 @@ Client-side rendering with React
 ||Afternoon|Snapshot testing||[Snapshot testing](https://github.com/horoeka-2021/code-from-class/tree/main/week4/mon-pm)|[Snapshot testing](https://www.youtube.com/watch?v=O8km4LwJWE0&list=PL_AE4CqTqcwIzLS7JDbYprcQ6Kwd8pjM-&index=30)|
 |Tuesday|Morning|State,<br> Event handling|[Broken Kaleidoscope](https://github.com/horoeka-2021/broken-kaleidoscope),<br> [Memory](https://github.com/horoeka-2021/memory),<br> [Enspiraled](https://github.com/horoeka-2021/enspiraled)|[Stateful React components](https://github.com/horoeka-2021/code-from-class/tree/main/week4/tue-am)|[Stateful React components](https://www.youtube.com/watch?v=LRggoccknno&list=PL_AE4CqTqcwIzLS7JDbYprcQ6Kwd8pjM-&index=32)|
 ||Afternoon|UI testing with Testing Library|||[UI testing](https://www.youtube.com/watch?v=eoDq5XUWyK8&list=PL_AE4CqTqcwIzLS7JDbYprcQ6Kwd8pjM-&index=33)|
-|Wednesday |Morning |Client-side routing |[Worldwide Routing](https://github.com/horoeka-2021/worldwide-routing) |[Client-side routing](https://github.com/horoeka-2021/code-from-class/tree/main/week4/wed-am)||
+|Wednesday |Morning |Client-side routing |[Worldwide Routing](https://github.com/horoeka-2021/worldwide-routing) |[Client-side routing](https://github.com/horoeka-2021/code-from-class/tree/main/week4/wed-am)|[Client-side routing](https://www.youtube.com/watch?v=EdugCCo_IQo&list=PL_AE4CqTqcwIzLS7JDbYprcQ6Kwd8pjM-&index=34)|
 |Thursday|Afternoon|React Forms||[React Forms](https://github.com/horoeka-2021/code-from-class/tree/main/week4/thurs-pm)|[React forms](https://www.youtube.com/watch?v=kC7JRO-D6DA&list=PL_AE4CqTqcwIzLS7JDbYprcQ6Kwd8pjM-&index=35)|
 
 
