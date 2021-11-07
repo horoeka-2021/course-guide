@@ -45,7 +45,7 @@ Express servers, plus templates and server-side rendering
 | Wednesday | Morning Recap     | Express router                                                          | [Pupparazzi](https://github.com/horoeka-2021/pupparazzi)                                                | [Express router](https://github.com/horoeka-2021/video-lectures/tree/main/express/router)                 | [Express Router](https://www.youtube.com/watch?v=Na3hWXoIIlE&list=PL_AE4CqTqcwIzLS7JDbYprcQ6Kwd8pjM-&index=17&t=290s)                                                                                                                                                                                                                                                                             |
 
 ## Week 1
-Building a strong foundation
+Building a strong foundation with javascript
 
 
 | Day       | Time              | Topics                                                                   | Challenges                                                                                              | Code from Class                                                                                                                                                                               | Video Lectures  |
