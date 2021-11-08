@@ -7,6 +7,7 @@ APIs
 | Day       | Time              | Topics                                                                  | Challenges                                                                                              | Code from Class                                                                                           | Video Lectures                                                                                                                                                                                                                                                                                                                                                                                    |
 | --------- | ----------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | 
 | Monday    | Morning | REST web APIs |[Charlotte's Web Log API](https://github.com/horoeka-2021/charlottes-web-log-api?organization=horoeka-2021&organization=horoeka-2021),<br> [Web API Stories](https://github.com/horoeka-2021/web-api-stories)|[REST web APIs](https://github.com/horoeka-2021/code-from-class/tree/main/week5/mon-am)||
+||Afternoon|Testing API endpoints||[Testing API endpoints](https://github.com/horoeka-2021/code-from-class/tree/main/week5/mon-pm)||
 
 ## Week 4
 Client-side rendering with React
@@ -34,7 +35,8 @@ Databases with Knex.js
 
 ## Week 2
 
-Express servers, plus templates and server-side rendering
+Servers with Express<br>
+Templates and server-side rendering with Handlebars
 
 | Day       | Time              | Topics                                                                  | Challenges                                                                                              | Code from Class                                                                                           | Video Lectures                                                                                                                                                                                                                                                                                                                                                                                    |
 | --------- | ----------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
@@ -45,7 +47,7 @@ Express servers, plus templates and server-side rendering
 | Wednesday | Morning Recap     | Express router                                                          | [Pupparazzi](https://github.com/horoeka-2021/pupparazzi)                                                | [Express router](https://github.com/horoeka-2021/video-lectures/tree/main/express/router)                 | [Express Router](https://www.youtube.com/watch?v=Na3hWXoIIlE&list=PL_AE4CqTqcwIzLS7JDbYprcQ6Kwd8pjM-&index=17&t=290s)                                                                                                                                                                                                                                                                             |
 
 ## Week 1
-Building a strong foundation with javascript
+Building a strong foundation with Javascript
 
 
 | Day       | Time              | Topics                                                                   | Challenges                                                                                              | Code from Class                                                                                                                                                                               | Video Lectures  |
