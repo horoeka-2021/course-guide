@@ -8,7 +8,7 @@ APIs
 | --------- | ----------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | 
 | Monday    | Morning | REST web APIs |[Charlotte's Web Log API](https://github.com/horoeka-2021/charlottes-web-log-api?organization=horoeka-2021&organization=horoeka-2021),<br> [Web API Stories](https://github.com/horoeka-2021/web-api-stories)|[REST web APIs](https://github.com/horoeka-2021/code-from-class/tree/main/week5/mon-am)||
 ||Afternoon|Testing API endpoints||[Testing API endpoints](https://github.com/horoeka-2021/code-from-class/tree/main/week5/mon-pm)|[Testing web APIs](https://www.youtube.com/watch?v=Jeh1IM5Ebog&list=PL_AE4CqTqcwIzLS7JDbYprcQ6Kwd8pjM-&index=36)|
-|Tuesday | Morning | Consuming external web APIs with useEffect() |[Consuming external APIs](https://github.com/horoeka-2021/consuming-external-apis) |[Consuming external web APIs with useEffect()](https://github.com/horoeka-2021/code-from-class/tree/main/week5/tue-am)||
+|Tuesday | Morning | Consuming external web APIs with useEffect |[Consuming external APIs](https://github.com/horoeka-2021/consuming-external-apis) |[Consuming external web APIs with useEffect](https://github.com/horoeka-2021/code-from-class/tree/main/week5/tue-am)||
 
 ## Week 4
 Client-side rendering with React
