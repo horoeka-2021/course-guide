@@ -1,6 +1,14 @@
 # Course Guide
 Links to lectures, code from class, and challenges
 
+## Week 6
+Global State Management with Redux
+
+| Day       | Time              | Topics                                                                  | Challenges                                                                                              | Code from Class                                                                                           | Lecture Video                                                                                                                                                                                                                                                                                                                                                                                    |
+| --------- | ----------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | 
+| Monday    | Morning | Intro to Redux<br>(minimal redux) |[Redux Minimal with Wombats](https://github.com/horoeka-2021/redux-minimal)|[Intro to Redux](https://github.com/horoeka-2021/code-from-class/tree/main/week6/mon-am)||
+||Afternoon|Testing Redux||[Testing Redux](https://github.com/horoeka-2021/code-from-class/tree/main/week6/mon-pm)||
+
 ## Week 5
 APIs
 
