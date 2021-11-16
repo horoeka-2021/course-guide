@@ -9,6 +9,7 @@ Global state management with Redux
 | Monday    | Morning | Intro to Redux<br>(minimal redux) |[Redux Minimal with Wombats](https://github.com/horoeka-2021/redux-minimal)|[Intro to Redux](https://github.com/horoeka-2021/code-from-class/tree/main/week6/mon-am)||
 ||Afternoon|Testing Redux||[Testing Redux](https://github.com/horoeka-2021/code-from-class/tree/main/week6/mon-pm)||
 |Tuesday | Morning | React Redux Full |[Sweet-As Beers](https://github.com/horoeka-2021/sweet-as-beers) |[React Redux Full](https://github.com/horoeka-2021/code-from-class/tree/main/week6/tue-am)||
+|Wednesday|Morning|Async operations with Redux |[Sweet-As Organics](https://github.com/horoeka-2021/sweet-as-organics-api)|[Async ops](https://github.com/horoeka-2021/code-from-class/tree/main/week6/wed-am)||
 
 ## Week 5
 APIs
